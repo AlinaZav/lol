@@ -1,0 +1,48 @@
+body, h1, h2, h3{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    font-size: 25px;
+    padding-left: 250px;
+    margin: 15px 0 19px 0;
+}
+.header{
+    height: 540px;
+    background-image: 
+        linear-gradient(to top, rgba(253,110,110,40%), rgba(253,110,110,40%)),
+        url(../img/John.png);
+    
+}
+.offer{
+    max-width: 940px;
+    max-height: 200px;
+    margin-left: 250px;
+    padding-top: 169px;
+}
+.title{
+    font-size: 47px;
+    color: #fff;
+    width: 780px;
+    height: 114px;
+}
+.btn{
+    border: 2px solid #fff;
+    background-color: transparent;
+    color: #fff;
+    font-size: 17px;
+    width: 166px;
+    height: 56px;
+    margin-top: 43px;
+}
+.bt{
+    font-size: 18px;
+    width: 119px;
+    height: 56px;
+    color: #fff;
+    background-color: transparent;
+    border: 2px solid #fff;
+    margin-left: 14px;
+}
